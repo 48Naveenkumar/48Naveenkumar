@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔹 Software Developer Enthusiast – Passionate about building scalable and efficient applications.<br>  
-💻 Experience – Experienced in Software Development & Software Engineering Intern.<br>  
-🚀 LeetCode Enthusiast – Solved 600+ problems, actively improving problem-solving skills.<br>  
-📂 LeetCode Repository – Maintaining a LeetCode repository and working on open-source projects.<br>  
-🎯 Tech Stack – Experienced in Python, Django, React.js, PostgreSQL, and TensorFlow.<br>  
-📚 Continuous Learner – Exploring Data Structures, Algorithms, and AI-driven applications.<br>  
+🔹 **Software Developer Enthusiast** – Passionate about building scalable and efficient applications.<br>  
+💻 **Experience** – Experienced in Software Development & Software Engineering Intern.<br>  
+🚀 **LeetCode Enthusiast** – Solved 600+ problems, actively improving problem-solving skills.<br>  
+📂 **LeetCode Repository** – Maintaining a LeetCode repository and working on open-source projects.<br>  
+🎯 **Tech Stack** – Experienced in Python, Django, React.js, PostgreSQL, and TensorFlow.<br>  
+📚 **Continuous Learner** – Exploring Data Structures, Algorithms, and AI-driven applications.<br>  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navinn_48)  
