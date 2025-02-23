@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔹 **Software Developer Enthusiast** – Passionate about building scalable and efficient applications.<br>  
-💻 **Experience** – Experienced in Software Development & Software Engineering Intern.<br>  
+💻 **Experience** – Experienced in Software Development & Software Engineering<br>  
 🚀 **LeetCode Enthusiast** – Solved 600+ problems, actively improving problem-solving skills.<br>  
 📂 **LeetCode Repository** – Maintaining a LeetCode repository and working on open-source projects.<br>  
 🎯 **Tech Stack** – Experienced in Python, Django, React.js, PostgreSQL, and TensorFlow.<br>  
